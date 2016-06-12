@@ -1,0 +1,22 @@
+.navbar {
+    margin-bottom: 0px;
+}
+.navbar-brand {
+    padding-top: 15px;
+}
+.jumbotron {
+    background-image: url(../img/hero.png);
+    background-size: cover;
+}
+.pricing {
+    background-color: #3498db;
+    padding: 35px;
+    color: #fff;
+}
+.pricing h4, .pricing small {
+    margin-top: 0px;
+    color: #fff;
+}
+.pricing hr {
+    border-color: #fff;
+}
